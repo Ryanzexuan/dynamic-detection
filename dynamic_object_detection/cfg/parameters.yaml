@@ -1,0 +1,12 @@
+# neighborhood_radius: 0.3
+# neighborhood_radius_upsampling: 0.2
+# voxel_size: 0.25
+# dynamic_threshold: 0.5 #0.5
+# number_of_clouds_used_as_padding: 5
+# time_multiplier: 1e-9  # Time multiplier for the time field of the point cloud
+neighborhood_radius: 0.3
+neighborhood_radius_upsampling: 0.2
+voxel_size: 0.25
+dynamic_threshold: 0.6 #0.5
+number_of_clouds_used_as_padding: 5
+time_multiplier: 1e-9  # Time multiplier for the time field of the point cloud
